@@ -1,6 +1,0 @@
-#!/bin/sh
-
-
-sudo apt install openbox obconf obmenu tint2 lxterminal
-
-# geany/mousepad, pcmanfm/thunar
